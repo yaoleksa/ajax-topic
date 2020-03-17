@@ -1,0 +1,29 @@
+{
+  "name": "ajax-topic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoleksa/ajax-topic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoleksa/ajax-topic/issues"
+  },
+  "homepage": "https://github.com/yaoleksa/ajax-topic#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": "changed description"
+}
